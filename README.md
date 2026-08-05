@@ -1,29 +1,13 @@
-<<<<<<< HEAD
-# Task 3 - Temperature Converter
-
-## Description
-
-A responsive temperature converter that allows users to convert temperature values between Celsius, Fahrenheit, and Kelvin instantly using JavaScript.
-
-## Features
-
-- Celsius Conversion
-- Fahrenheit Conversion
-- Kelvin Conversion
-- Input Validation
-- Responsive Design
-- User-Friendly Interface
-
-## Technologies Used
-
-=======
 # OIBSIP – Oasis Infobyte Web Development Internship
 
 Welcome to my Oasis Infobyte Web Development Internship repository. This repository contains all the Level 1 tasks completed as part of the internship program.
 
+---
+
 ## 📂 Projects
 
-### Task 1 –  Landing Page
+### Task 1 – Landing Page
+
 A modern and responsive landing page for an AI-powered learning platform.
 
 **Technologies Used**
@@ -42,6 +26,7 @@ A modern and responsive landing page for an AI-powered learning platform.
 ---
 
 ### Task 2 – Personal Portfolio Website
+
 A responsive portfolio website showcasing my skills, projects, certifications, and contact information.
 
 **Technologies Used**
@@ -52,38 +37,21 @@ A responsive portfolio website showcasing my skills, projects, certifications, a
 - About Me
 - Skills
 - Projects
-- Resume
+- Resume Section
 - Contact Section
 - Responsive Design
 
 ---
 
 ### Task 3 – Temperature Converter
-A simple and responsive temperature converter that converts values between Celsius, Fahrenheit, and Kelvin.
+
+A simple and responsive temperature converter that converts temperature values between Celsius, Fahrenheit, and Kelvin.
 
 **Technologies Used**
->>>>>>> 1c3b6da90aadee95268d8914dbce365eab2389fa
 - HTML5
 - CSS3
 - JavaScript
 
-<<<<<<< HEAD
-## Folder Structure
-
-```
-Ashi-Task3/
-│── index.html
-│── style.css
-│── script.js
-└── README.md
-```
-
-## Author
-
-**Ashi**
-
-GitHub: https://github.com/AshiVarshney23
-=======
 **Features**
 - Celsius, Fahrenheit & Kelvin Conversion
 - Input Validation
@@ -94,16 +62,28 @@ GitHub: https://github.com/AshiVarshney23
 
 ## 📁 Repository Structure
 
-```
+```text
 OIBSIP
-│── index.html
-│── style.css
 │── README.md
 │
 ├── Ashi-Task1
+│   ├── index.html
+│   ├── style.css
+│   └── README.md
+│
 ├── Ashi-Task2
+│   ├── index.html
+│   ├── style.css
+│   └── README.md
+│
 └── Ashi-Task3
+    ├── index.html
+    ├── style.css
+    ├── script.js
+    └── README.md
 ```
+
+---
 
 ## 🚀 Technologies Used
 
@@ -113,13 +93,10 @@ OIBSIP
 - Git
 - GitHub
 
-## 👩‍💻 Author
-
-**Ashi**
-
-- GitHub: https://github.com/AshiVarshney23
-
 ---
 
-Thank you for visiting this repository!
->>>>>>> 1c3b6da90aadee95268d8914dbce365eab2389fa
+## 👩‍💻 Author
+
+**Ashi Varshney**
+
+GitHub: https://github.com/AshiVarshney23
